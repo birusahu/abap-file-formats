@@ -20,6 +20,12 @@
      <MSGNR>001</MSGNR>
      <TEXT>test2</TEXT>
     </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTESTMSG7788</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>test3</TEXT>
+    </T100>
    </T100>
   </asx:values>
  </asx:abap>

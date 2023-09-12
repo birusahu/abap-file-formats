@@ -1,14 +1,16 @@
-class ZTESTCLASSPULL66 definition
-  public
-  final
-  create public .
+CLASS ztestclasspull66 DEFINITION
+  PUBLIC
 
-public section.
-protected section.
-private section.
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  data bb type string.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 ENDCLASS.
 
 
 
-CLASS ZTESTCLASSPULL66 IMPLEMENTATION.
+CLASS ztestclasspull66 IMPLEMENTATION.
 ENDCLASS.
